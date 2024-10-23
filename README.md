@@ -1,10 +1,10 @@
 <h1>👋 &nbsp;Olá, eu sou o Gyl Monteiro, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
-<a href="https://instagram.com/gylmonteirodossantos"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-dicasparadevs-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/gylmonteiro"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gyldeveloper@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/gylmonteirodossantos"><img src="https://img.shields.io/badge/-@gylmonteiro_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-gyldeveloper.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-gyldeveloper-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gylmonteiro"><img src="https://img.shields.io/badge/-Gyl%20Monteiro%20Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:gyldeveloper@gmail.com"><img src="https://img.shields.io/badge/-gyldeveloper@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
